@@ -12,7 +12,7 @@ Skills: C/C++/HTML/CSS/JAVASCRIPT/REACT/NODE
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning C++, JavaScript, CSS, Python. 
 - 📫 How to reach me: toyeshsainik@gmail.com 
-- <img src="https://image.flaticon.com/icons/png/512/1267/1267431.png" alt="Personal Website" width="20" height="20"/> <a href="https://stackoverflow.com/users/14708870/toyeesh/">Stack Overflow profile</a>
+- <img src="https://drive.google.com/file/d/1StrtDG2Yo1ATs_lrfYWvkEJuQqSxU5ku/view" width="20" height="20"/> <a href="https://stackoverflow.com/users/14708870/toyeesh/">Stack Overflow profile</a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
