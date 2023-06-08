@@ -30,10 +30,5 @@ Skills: C/C++/HTML/CSS/JAVASCRIPT/REACT/NODE
 | --- | --- |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
-
-
-![Profile views](https://gpvc.arturio.dev/sinha-toyeesh)  
-
------
 Credits: [Toyeesh Sinha](https://github.com/sinha-toyeesh)
 
